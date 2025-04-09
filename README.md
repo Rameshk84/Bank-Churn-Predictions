@@ -42,3 +42,8 @@ Finally, using Flask and HTML/CSS, we created the user-facing app to add informa
 
 For a deeper dive into our analysis and process, take a look at [https://docs.google.com/presentation/d/17k30mG7fuIE-NX4ZZx2VgvW2HMlj6fsrHFLkLgC-iMk/edit?usp=sharing
 ]
+
+## Note:
+We have used this project under the licence of MIT Commercial, And we taken some online & similar project refrence to build our own ML model like this We have a knoledge on Basic to intermidiate level of Knowledge and also we used AI tools to leverage the time and energy to do this entire project.
+
+ 
