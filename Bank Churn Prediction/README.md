@@ -1,6 +1,6 @@
 The app is deployed to Render, and can be found at this [URL](https://bank-churn-predictions.onrender.com)
 
-Our full presentation deck [can be found here]:
+Our full presentation deck [can be found here]:https://docs.google.com/presentation/d/17k30mG7fuIE-NX4ZZx2VgvW2HMlj6fsrHFLkLgC-iMk/edit?usp=sharing
 
 # Churn Modelling - How to predict if a bank’s customer will stay or leave the bank
 
