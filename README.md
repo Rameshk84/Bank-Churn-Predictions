@@ -1,4 +1,5 @@
 # Churn Modelling - How to predict if a bank’s customer will stay or leave the bank
+![img](https://github.com/user-attachments/assets/2e157e51-e879-43a7-9755-74560a19f033)
 
 Using a source of 10,000 bank records, we created an app to demonstrate the ability to apply machine learning models to predict the likelihood of customer churn. We accomplished this using the following steps:
 
@@ -39,4 +40,5 @@ Finally, using Flask and HTML/CSS, we created the user-facing app to add informa
 - [SciKeras Documentation](https://www.adriangb.com/scikeras/stable/index.html)
 - [Scikit-Learn Tutorial: Machine Learning in Python Examples](https://www.guru99.com/scikit-learn-tutorial.html)
 
-For a deeper dive into our analysis and process, take a look at [our full presentation]
+For a deeper dive into our analysis and process, take a look at [https://docs.google.com/presentation/d/17k30mG7fuIE-NX4ZZx2VgvW2HMlj6fsrHFLkLgC-iMk/edit?usp=sharing
+]
